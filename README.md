@@ -5,7 +5,7 @@
 
 > **Download Full Desktop Version (570M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-x86_64-20260505.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-aarch64-20260505.iso)
 >
-> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251116.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251116.iso)
+> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20260505.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251116.iso)
 
 ------------------------------------------
 
