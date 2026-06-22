@@ -12,7 +12,7 @@
 ### What's New:
 
 * 20260505: Fix Input Method for Geany (For earlier releases, please fix with: apt install fcitx-frontend-gtk3);
-* 20260408: Add Windows Registry Editor (Regedit);
+* 20260408: Add Windows Registry Editor (Regedit for Linux);
 * 20260317: Setup Root User for installation / Refine Grub2 installation;
 * 20260315: Ubuntu 26.04 Resolute for AMD64 / ARM64;
 * 20260210: Ubuntu 26.04 Resolute Desktop Draft;
