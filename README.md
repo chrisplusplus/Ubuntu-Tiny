@@ -129,3 +129,17 @@ HTTPS: x-www-browser https://localhost:8443/
 ## Reporting Issues
 
 You can post issues here for any suggestions to improve Ubuntu Classic Desktop. To report a new issue, you are supposed to have a GitHub account and log in with it in the first place. Then, get access to [new issue](https://github.com/ghostplant/ubuntu-classic/issues/new), fill in the block with what you want to report, and finally submit this issue.
+
+------------------------------------------
+
+### Removing packages from the historical custom APT repo
+
+If an installed system was created from an older ISO that used the historical
+Ghostplant custom APT repo, run this cleanup script once after installation to
+purge packages that apt still identifies as coming from that repo and to remove
+leftover repo source/key files:
+
+```sh
+sudo scripts/remove-custom-repo-packages.sh --dry-run
+sudo scripts/remove-custom-repo-packages.sh --yes
+```
